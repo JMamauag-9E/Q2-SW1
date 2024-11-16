@@ -1,0 +1,22 @@
+body {
+	background-image: linear-gradient(to right, #c663ff , #2e008a);
+	color: white;
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.container {
+	background-color: darkslateblue;
+}
+
+.header {
+			font-family: "Fantasy", Papyrus;
+            text-align: center;
+            background-color: black;
+            color: white;
+            font-size: 15px;
+}
+
+img {
+	width: 100px;
+}
+
